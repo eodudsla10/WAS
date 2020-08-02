@@ -28,7 +28,7 @@
 
 -----------
 # 아파치 톰캣 
-[![noname01.png](https://i.postimg.cc/65sJVP8T/noname01.png)]
+![noname01.png](https://i.postimg.cc/65sJVP8T/noname01.png)
 
 --------
 
